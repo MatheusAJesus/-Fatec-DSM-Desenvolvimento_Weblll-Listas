@@ -1,4 +1,4 @@
-# -Fatec-DSM-Desenvolvimento_WebIII
+# Fatec DSM Desenvolvimento Web III
 
 ### Repositório dedicado à entrega das listas de exercícios da disciplina de Desenvolvimento Web III do curso Desenvolvimento de Software Multiplataforma, da FATEC SJC.
 
